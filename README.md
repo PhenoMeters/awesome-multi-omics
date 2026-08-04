@@ -68,6 +68,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - [OmicsPLS](https://github.com/selbouhaddani/OmicsPLS) - Bouhaddani  - O2PLS implemented in R, with an alternative cross-validation scheme - [paper](https://doi.org/10.1186/s12859-018-2371-3)
 - 2018 - [SCCA-BC](https://github.com/pimentel/scca-bc) - Pimentel - Biclustering by sparse canonical correlation analysis - [paper](https://doi.org/10.1007/s40484-017-0127-0)
 - 2018 - [mixKernel](https://cran.r-project.org/package=mixKernel) - Mariette - kernel method for unsupervised multi-omics integration - [paper 1](http://dx.doi.org/10.1093/bioinformatics/btx682), [paper 2](http://dx.doi.org/10.1093/nargab/lqac014)
+- 2019 - **Seurat** - Stuart - [paper](https://www.cell.com/cell/fulltext/S0092-8674(19)30559-8)
 - 2019 - [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - weighted orthogonal nonnegative parallel factor analysis - [paper](https://doi.org/10.1038/s41467-019-13027-2) 
 - 2019 - [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization - [paper 1](https://doi.org/10.1111/biom.13141), [paper 2](https://arxiv.org/abs/2002.02601)
 - 2019 - [SmCCNet](https://cran.r-project.org/web/packages/SmCCNet/index.html) - Shi - sparse multiple canonical correlation network analysis - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6931269/)
@@ -79,7 +80,10 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - [MEFISTO](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - spatial or temporal relationships - [preprint](https://doi.org/10.1101/2020.11.03.366674)
 - 2020 - [MultiPower](https://github.com/ConesaLab/MultiPower) - Tarazona - Sample size in multi-omic experiments - [paper](https://doi.org/10.1038/s41467-020-16937-8)
 - 2020 - [mixedCCA](https://cran.r-project.org/web/packages/mixedCCA/) - Yoon - Sparse semiparametric CCA for data of mixed types - [paper](https://doi.org/10.1093/biomet/asaa007)
-
+- 2020 - [smCIA/ssmCIA](https://www.med.upenn.edu/long-lab/software.html) - Min - Sparse (structured sparse) multiple co-Inertia analysis  - [paper](https://doi.org/10.1186/s12859-020-3455-4)
+- 2023 - [MuVI](https://github.com/MLO-lab/MuVI) - Qoku - Integrate noisy feature sets - [paper](https://arxiv.org/abs/2204.06242)
+- 2024 - [SmCCNet](https://github.com/KechrisLab/SmCCNet) - Liu - Smccnet 2.0: a comprehensive tool for multi-omics network inference with shiny visualization [paper](https://link.springer.com/article/10.1186/s12859-024-05900-9)
+- 2025 - [Flexynesis](https://github.com/BIMSBbioinfo/flexynesis) - Uyar - deeplearning toolkit for bulk multi-omics data integration - [paper](https://www.nature.com/articles/s41467-025-63688-5)
 ### Ecology multi-table literature
 
 - 1994 - **COI** - Doledec - Co‐inertia analysis - [paper](https://doi.org/10.1111/j.1365-2427.1994.tb01741.x)
@@ -102,26 +106,37 @@ For brevity, below lists only the first author of multi-omics methods.
 *Note: I think that prediction of genomic tracks, e.g. ChIP-seq, from other genomic tracks is a large area of research that may deserve a separate repository. Below are methods for clustering / classification of samples into sub-types or prediction of outcomes.*
 
 - 2009 - [iCluster](https://cran.r-project.org/package=iCluster) - Shen - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800366/)
+- 2011 - [PSDF](https://sites.google.com/site/patientspecificdatafusion/home/patientSpecificDataFusion.tar.gz) - Yuan - Data fusion by Bayesian nonparametric Dirichlet modeling - [website](https://sites.google.com/site/patientspecificdatafusion/), [publication](https://doi.org/10.1371/journal.pcbi.1002227)
 - 2012 - [MDI](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/zeeman_research/software/) - Kirk - [paper1](https://academic.oup.com/bioinformatics/article/28/24/3290/244641), [paper2](https://www.degruyter.com/document/doi/10.1515/sagmb-2015-0055/html)
 - 2013 - [iClusterPlus](https://bioconductor.org/packages/iClusterPlus) - Mo - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3600490/)
 - 2013 - [BCC](https://github.com/ttriche/bayesCC) - Lock - Bayesian consensus clustering - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789539/)
 - 2013 - [iBAG](https://github.com/umich-biostatistics/iBAG) - Wang - Integrative Bayesian Analysis of Genomics - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3546799/)
 - 2014 - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - Wang - [paper](https://www.ncbi.nlm.nih.gov/pubmed/24464287)
+- 2015 - moCluster - Meng - Derivative of iClusterPlus - [paper](https://doi.org/10.1021/acs.jproteome.5b00824)
 - 2017 - [clusternomics](https://cran.r-project.org/web/packages/clusternomics/index.html) - Gabasova - [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005781)
+- 2017 - PFA - Shi - Pattern Fussion analysis - [publication](https://doi.org/10.1093/bioinformatics/btx176)
 - 2019 - [IBOOST](http://dlin.web.unc.edu/software/iboost/) - Wong - [paper](https://doi.org/10.1186/s13059-019-1640-4)
 - 2019 - [Spectrum](https://cran.r-project.org/web/packages/Spectrum/index.html) - John - [paper](https://doi.org/10.1093/bioinformatics/btz704)
+- 2019 - [NEMO](https://github.com/Shamir-Lab/NEMO) - Rappoport - Similarity-based Clustering - [paper](https://doi.org/10.1093/bioinformatics/btz058)
 - 2020 - [INF](https://gitlab.fbk.eu/MPBA/INF) - Chierici and Bussola - [paper](https://doi.org/10.1101/2020.04.01.020685)
 - 2021 - [ClustOmics](https://github.com/galadrielbriere/ClustOmics) - Brière - Consensus clustering - [paper](https://doi.org/10.1186/s12859-021-04279-1)
+- 2021 - [MOGONET](https://github.com/txWang/MOGONET) - Tongxin Wang - Multi-Omics Graph cOnvolutional NETworks - [paper](https://pubmed.ncbi.nlm.nih.gov/34103512/)
+- 2023 - [SCENIC+](https://github.com/aertslab/scenicplus) - Blas - SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks - [paper](https://www.nature.com/articles/s41592-023-01938-4)
 
 ### Multi-omics autoencoders
+
 - 2019 - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - Stacked VAE + clustering predictive of survival - [paper](https://doi.org/10.26508/lsa.201900517)
 - 2019 - [IntegrativeVAEs](https://github.com/CancerAI-CL/IntegrativeVAEs) - Simidjievski - Variational autoencoders + classification - [paper](https://doi.org/10.3389/fgene.2019.01205)
+- 2019 - [OmiVAE](https://github.com/zhangxiaoyu11/OmiVAE) - Xiaoyu Zhang -  Integrated Multi-omics Analysis Using Variational Autoencoders - [paper](https://arxiv.org/abs/1908.06278)
 - 2021 - [DeepProg](https://github.com/lanagarmire/DeepProg) - Poirion - DL and ML ensemble + survival prediction - [paper](https://doi.org/10.1186/s13073-021-00930-x)
 - 2021 - [SHAE](https://github.com/BoevaLab/Supervised-hierarchical-autoencoders-for-cancer-survival) - Wissel - Supervised Hierarchical Autoencoder + survival prediction - [preprint](https://doi.org/10.1101/2021.09.16.460589)
+- 2023 - [MOVE](https://github.com/RasmussenLab/MOVE/) - Allesøe - Drug–omics associations + generative deep-learning models - [paper](https://doi.org/10.1038/s41587-022-01520-x)
+- 2023 - [GLUE](https://github.com/gao-lab/GLUE) - Cao - Multi-omics single-cell data integration and regulatory inference with graph-linked embedding - [paper](https://www.nature.com/articles/s41587-022-01284-4)
 
 ### Multi-omics networks
 
 - 2018 - [MolTi-DREAM](https://github.com/gilles-didier/MolTi-DREAM/) - Didier - identifying communities from multiplex networks, and annotated the obtained clusters [article](https://dx.doi.org/10.12688%2Ff1000research.15486.2)
+- 2018 [NetICS](https://github.com/cbg-ethz/netics) - Christos Dimitrakopoulos - Network-based integration of multi-omics data for prioritizing cancer genes - [paper](https://pubmed.ncbi.nlm.nih.gov/29547932/)
 - 2019 - [RWR-MH](https://github.com/alberto-valdeolivas/RWR-MH) - Valdeolivas - Random walk with restart on multiplex and heterogeneous biological networks [article](https://doi.org/10.1093/bioinformatics/bty637)
 - 2020 - [MOGAMUN](https://bioconductor.org/packages/MOGAMUN/) - Novoa-del-toro - A multi-objective genetic algorithm to find active modules in multiplex biological networks [preprint](https://www.biorxiv.org/content/10.1101/2020.05.25.114215v1)
 - 2021 - [RWRF](https://github.com/Sepstar/RWRF/) - Wen -  Random Walk with Restart for multi-dimensional data Fusion [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04029-3) 
@@ -132,6 +147,14 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - [clonealign](https://github.com/kieranrcampbell/clonealign) - Campbell - gene expression states to clones (scRNA-seq + scDNA-seq (CNV)) - [paper](https://doi.org/10.1101/344309)
 - 2020 - [CiteFuse](https://sydneybiox.github.io/CiteFuse/) - Kim - CITE-seq data analysis [paper](https://doi.org/10.1093/bioinformatics/btaa282)
 - 2021 - [CoSpar](https://cospar.readthedocs.io/) - Wang - infer dynamics by integrating state and lineage information - [paper](https://www.biorxiv.org/content/10.1101/2021.05.06.443026v1)
+- 2025 - [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - Yang - MCP server enabling spatial transcriptomics analysis via natural language, integrating 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis - [docs](https://cafferychen777.github.io/ChatSpatial/)
+- 2025 - [mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype) - Yang - Multi-model framework for single-cell RNA-seq cell type annotation with uncertainty quantification - [paper](https://doi.org/10.1101/2025.04.10.647852)
+- 2025 - [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - Yang - High-performance spatial transcriptomics deconvolution using structure-preserving sketching, processes 1M spots in ~3 min - [paper](https://doi.org/10.64898/2025.12.22.696108)
+
+- 2025 - [DeepSpot](https://github.com/ratschlab/DeepSpot) - Nonchev - histology to spatial transcriptomics - [paper](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3)
+- 2025 - [DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell) - Nonchev - virtual single-cell ST - [paper](https://openreview.net/forum?id=ofCkwXQKaz)
+- 2026 - [DeepSpot-M](https://github.com/ratschlab/DeepSpotM) - Nonchev - multimodal virtual ST foundation - [paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
+- 2026 - [AESTETIK](https://github.com/ratschlab/aestetik) - Nonchev - ST topology image autoencoder - [paper](https://doi.org/10.1093/bioinformatics/btag316)
 
 ### Multi-study correlation or factor analysis
 
@@ -173,6 +196,10 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2020 - Subramanian - [Multi-omics Data Integration, Interpretation, and Its Application](https://dx.doi.org/10.1177/1177932219899051)
 - 2020 - Krassowski - [State of the Field in Multi-Omics Research: From Computational Needs to Data Mining and Sharing](https://doi.org/10.3389%2Ffgene.2020.610798) - [code](https://github.com/krassowski/multi-omics-state-of-the-field)
 - 2021 - Espinosa - [Data-Driven Modeling of Pregnancy-Related Complications](https://doi.org/10.1016/j.molmed.2021.01.007)
+- 2022 - Jiang - [Uncovering Cross-Cohort Molecular Features with Multi-Omics Integration Analysis](https://doi.org/10.1101/2022.11.10.515908)
+- 2022 - Cai - [Machine learning for multi-omics data integration in cancer](https://doi.org/10.1016/j.isci.2022.103798)
+- 2024 - Ballard - [Deep learning-based approaches for multi-omics data integration and analysis](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00391-z)
+- 2025 - Baião - [A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches](https://academic.oup.com/bib/article/26/4/bbaf355/8220754)
 
 ## Multi-omics application papers
 
@@ -193,6 +220,12 @@ For brevity, below lists only the first author of multi-omics methods.
 
 - 2017 - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Ramos - Software for the integration of multi-omics experiments in Bioconductor - [paper](https://doi.org/10.1158/0008-5472.CAN-17-0344).
 - 2021 - [muon](https://github.com/pmbio/muon) - Bredikhin - [Multimodal omics analysis framework](https://doi.org/10.1101/2021.06.01.445670)
+- 2025 - [Omilayers](https://github.com/dkioroglou/omilayers) - Kioroglou - Python package for efficient data management to support multi-omic analysis - [paper](https://doi.org/10.1186/s12859-025-06067-7), [docs](https://omilayers.readthedocs.io/en/latest/)
+- 2026 - [omicau](https://github.com/tunabirgun/omicau) - Birgün - leakage-safe data audit and benchmarking
+
+## Multi-omics visualization
+
+- 2025 - Watson - [rakaia](https://github.com/camlab-bioml/rakaia): Scalable spatial omics visualization and analysis in the browser ([paper](https://www.biorxiv.org/content/10.1101/2025.08.15.670550v1))
 
 ## Batch effect correction
 
