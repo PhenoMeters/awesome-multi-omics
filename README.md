@@ -61,7 +61,7 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 - [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis - [paper 1](https://doi.org/10.15252/msb.20178124), [paper 2](https://www.biorxiv.org/content/10.1101/837104v1), [application](https://doi.org/10.1101/519207)
 - 2018 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown - [paper](https://doi.org/10.1371/journal.pgen.1007841)
 - 2018 - [JACA](https://github.com/Pennisetum/JACA) - Zhang - Joint Association and Classification Analysis - [paper](https://arxiv.org/abs/1811.08511)
-- 2018 - **iPCA** - Tang - Integrated Principal Components Analysis - [paper](https://arxiv.org/abs/1810.00832)
+- 2018 - **iPCA** - Tang - Integrated Principal Components Analysis - [paper](https://jmlr.csail.mit.edu/papers/volume22/20-084/20-084.pdf)
 - 2018 - [pCIA](https://www.med.upenn.edu/long-lab/software.html) - Min - penalized COI - [paper](https://www.ncbi.nlm.nih.gov/pubmed/30165424)
 - 2018 - **sSCCA** - Safo - structured sparse CCA - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5677597/)
 - 2018 - **SWCCA** - Min - Sparse Weighted CCA - [paper](https://arxiv.org/abs/1710.04792)
@@ -139,7 +139,9 @@ For brevity, below lists only the first author of multi-omics methods.
 - 2018 [NetICS](https://github.com/cbg-ethz/netics) - Christos Dimitrakopoulos - Network-based integration of multi-omics data for prioritizing cancer genes - [paper](https://pubmed.ncbi.nlm.nih.gov/29547932/)
 - 2019 - [RWR-MH](https://github.com/alberto-valdeolivas/RWR-MH) - Valdeolivas - Random walk with restart on multiplex and heterogeneous biological networks [article](https://doi.org/10.1093/bioinformatics/bty637)
 - 2020 - [MOGAMUN](https://bioconductor.org/packages/MOGAMUN/) - Novoa-del-toro - A multi-objective genetic algorithm to find active modules in multiplex biological networks [preprint](https://www.biorxiv.org/content/10.1101/2020.05.25.114215v1)
-- 2021 - [RWRF](https://github.com/Sepstar/RWRF/) - Wen -  Random Walk with Restart for multi-dimensional data Fusion [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04029-3) 
+- 2021 - [RWRF](https://github.com/Sepstar/RWRF/) - Wen -  Random Walk with Restart for multi-dimensional data Fusion [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04029-3)
+- 2025 - [CMI-PB](https://www.cmi-pb.org/) - Putting computational models of immunity to the test—An invited challenge to predict B.pertussis vaccination responses. [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012927)
+- 2026 - [CMI-X](https://cmi-x.org/)
 
 ### Single cell multi-omics
 
